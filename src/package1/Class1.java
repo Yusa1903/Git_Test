@@ -12,6 +12,10 @@ public class Class1 {
 		//Here are my changes
 
 		//Today we have seen new commands on Git and GitHub
+		
+		//This is getting kind of hard to be honest
+		
+		System.out.println("yes");
 
 		for (int i = 0; i < args.length; i++) {
 			
