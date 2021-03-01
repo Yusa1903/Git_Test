@@ -10,7 +10,13 @@ public class Class1 {
 		double num = 34.5;
 		System.out.println(num);
 		//Here are my changes
+
 		//Today we have seen new commands on Git and GitHub
+
+		for (int i = 0; i < args.length; i++) {
+			
+		}
+
 	}
 
 }
