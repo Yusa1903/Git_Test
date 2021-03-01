@@ -7,7 +7,8 @@ public class Class1 {
 		System.out.println("Hello world");
 		int numberOfStudents = 71;
 		System.out.println(numberOfStudents);
-		
+		double num = 34.5;
+		System.out.println(num);
 	}
 
 }
