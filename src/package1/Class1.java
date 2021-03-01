@@ -13,7 +13,7 @@ public class Class1 {
 
 		//Today we have seen new commands on Git and GitHub
 		
-		//This is getting kind of hard to be honest
+		//Hey this is really hard
 		
 		System.out.println("yes");
 
